@@ -1,10 +1,10 @@
 # Hey, I'm Manoj Khanal 👋
 
-### Web Developer | React.js • JavaScript • PHP • Laravel
+### Full Stack Web Developer | React.js • JavaScript • PHP • Laravel • Node.js
 
-I build responsive websites, user-friendly interfaces, and practical web applications.
+I build responsive interfaces and practical web applications, with an interest in both frontend and backend development.
 
-My work includes frontend development for business and organizational websites, and I'm continuously developing my skills in backend development with PHP and Laravel.
+My project work includes React-based websites and a Laravel-based order management system. I'm strengthening my backend skills with PHP, Laravel, Node.js, APIs, and databases.
 
 I enjoy turning ideas and requirements into functional digital experiences, with attention to usability, responsive layouts, and maintainable code.
 
@@ -12,11 +12,11 @@ I enjoy turning ideas and requirements into functional digital experiences, with
 
 ## 🧑‍💻 A Little About Me
 
-- 💻 **Focus:** Frontend development and responsive web applications
-- 🛠️ **Working with:** HTML, CSS, JavaScript, React.js, PHP
-- 🌱 **Currently learning:** Laravel and backend application development
-- 🎨 **Interested in:** UI/UX, accessibility, and clean interface design
-- 🚀 **Goal:** Grow as a developer by building useful, reliable applications
+- 💻 **Focus:** Full-stack web development — frontend interfaces and backend functionality
+- 🛠️ **Working with:** React.js, JavaScript, HTML, CSS, PHP, and Laravel projects
+- 🌱 **Currently learning:** Node.js, APIs, databases, and backend architecture
+- 🎨 **Interested in:** UI/UX, accessibility, and responsive design
+- 🚀 **Goal:** Build reliable, maintainable applications across the stack
 
 ## 🛠️ Technologies & Tools
 
@@ -28,10 +28,13 @@ I enjoy turning ideas and requirements into functional digital experiences, with
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Backend & Learning**
+**Backend & Server-Side**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+*Laravel: project experience · Node.js: currently learning*
 
 **Development Tools**
 
@@ -61,7 +64,7 @@ A React-based web application project.
 
 ### 🛒 POS System
 
-A point-of-sale application project built using Laravel.
+A Laravel 12 point-of-sale and order-management project with order creation, pending orders, and payment tracking logic.
 
 **Technology:** Laravel / PHP
 
@@ -77,10 +80,10 @@ A project focused on expense tracking.
 
 ## 🎯 What I'm Working Toward
 
-- Improving my React and JavaScript development practices
-- Learning Laravel, databases, and backend application architecture
-- Building more complete, well-documented web applications
-- Developing stronger skills in accessibility, performance, and code maintenance
+- Deepening React and JavaScript development skills
+- Learning Node.js and strengthening PHP, Laravel, database, and API fundamentals
+- Building and documenting complete frontend-to-backend applications
+- Improving accessibility, performance, testing, and code maintainability
 
 ---
 
